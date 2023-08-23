@@ -10,4 +10,6 @@ En este notebook podrás extraer texto de una imagen, identificar los sentimient
 ## [¡Polly habla¡ 🦜](https://github.com/elizabethfuentes12/aws-aiml-demo/blob/main/notebooks/amazon_translate_polly.ipynb):
 En este notebook podrás identificar el idioma de un trexto ingresado, traducirlo a otro idioma y repoducir un audio con la pronunciación del idioma destino. 
 
-## [Genera subtítulos a un video y traducelos a otro idioma]
+## [Genera subtítulos a un video y traducelos a otro idioma ⏯️ 🍿.]()
+En este notebook aprenderás a extraer subitulos de un video y a generar unos nuevos en otro idioma. 
+
