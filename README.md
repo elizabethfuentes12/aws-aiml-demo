@@ -29,7 +29,7 @@ Esta es una serie blog donde te guio a crear una aplicación de recomendaciones 
 
 ----
 
-## 🚨¿Te gusto? 👩🏻‍💻 ¿Tienes comentarios?🎤 cuentame aca --> [acá](https://www.pulse.aws/survey/WC6WAFGM)
+## 🚨¿Te gusto? 👩🏻‍💻 ¿Tienes comentarios?🎤 cuéntamelo todo --> [acá](https://www.pulse.aws/survey/WC6WAFGM)
 
 ----
 
