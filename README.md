@@ -13,7 +13,7 @@ En este notebook podrás identificar el idioma de un trexto ingresado, traducirl
 ## [Genera subtítulos a un video y traducelos a otro idioma ⏯️ 🍿.](https://github.com/elizabethfuentes12/aws-aiml-demo/blob/main/notebooks/crea_subtitulos.ipynb)
 En este notebook aprenderás a extraer subitulos de un video y a generar unos nuevos en otro idioma. 
 
-## [Moderador de contenidos de video ⏯️ 🔫.]()
+## [Moderador de contenidos de video ⏯️ 🔫.](https://github.com/elizabethfuentes12/aws-aiml-demo/blob/main/notebooks/moderador_contenido.ipynb)
 En este notebook aprenderas a crear un moderador de contenido de video
 
 ## [Avanzado: Crea un recomendador de Anime](https://aws.amazon.com/es/blogs/aws-spanish/como-crear-un-modelo-de-recomendacion-basado-en-machine-learning/)
