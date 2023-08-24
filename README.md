@@ -23,7 +23,7 @@ En este notebook aprenderas a crear un moderador de contenido de video
 ## [Avanzado: Crea un recomendador de Anime](https://aws.amazon.com/es/blogs/aws-spanish/como-crear-un-modelo-de-recomendacion-basado-en-machine-learning/)
 Esta es una serie blog donde te guio a crear una aplicación de recomendaciones de Anime
 
-##¡Gracias!
+## ¡Gracias!
 
 Te dejo mis redes: 
 🇻🇪🇨🇱 [Dev.to](https://dev.to/elizabethfuentes12) [Linkedin](https://www.linkedin.com/in/lizfue/) [GitHub](https://github.com/elizabethfuentes12/) [Twitter](https://twitter.com/elizabethfue12) [Instagram](https://www.instagram.com/elifue.tech) [Youtube](https://www.youtube.com/channel/UCr0Gnc-t30m4xyrvsQpNp2Q)
