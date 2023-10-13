@@ -1,8 +1,12 @@
-# Servicios de AI-ML de AWS: Demos para aprender a usar algunos de los [servicios de AIML de AWS](https://aws.amazon.com/es/machine-learning/) en un Jupyter Notebook.
+# Servicios de AI-MLy GenAI de AWS: Demos para aprender a usar algunos de los [servicios de AIML de AWS](https://aws.amazon.com/es/machine-learning/) en un Jupyter Notebook.
 
 
 🇻🇪🇨🇱 [Dev.to](https://dev.to/elizabethfuentes12) [Linkedin](https://www.linkedin.com/in/lizfue/) [GitHub](https://github.com/elizabethfuentes12/) [Twitter](https://twitter.com/elizabethfue12) [Instagram](https://www.instagram.com/elifue.tech) [Youtube](https://www.youtube.com/channel/UCr0Gnc-t30m4xyrvsQpNp2Q)
 [Linktr](https://linktr.ee/elizabethfuentesleone)
+
+> 💰 **Nota:** Algunos servicios estan en la capa gratuita y otros no, asegurate de revisar los valores involucrados antes de empezar --> [Link](https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+
+> 👷🏻‍♀️ **Configuración de la cuenta AWS:** Todas las demos se ejecutan en un jypiter notebook, por lo que debes tener configurado la cuenta de AWS en tu computador o ambiente, sigue los pasos aca --> [Link](https://docs.aws.amazon.com/es_es/cli/latest/userguide/cli-configure-files.html#:~:text=export%20AWS_PROFILE%3Duser1-,Definir%20y%20ver%20las%20opciones%20de%20configuraci%C3%B3n%20mediante%20comandos,-Hay%20varias%20formas)
 
 ----
 
@@ -23,6 +27,9 @@ En este notebook aprenderás a extraer subitulos de un video y a generar unos nu
 
 ## [Moderador de contenidos de video ⏯️ 🔫.](https://github.com/elizabethfuentes12/aws-aiml-demo/blob/main/notebooks/moderador_contenido.ipynb)
 En este notebook aprenderas a crear un moderador de contenido de video.
+
+## [Genai al alcance de una llamada de API 🚀]()
+En estos notebook podrás utilizar la magia del Genai desde un par de lineas de comando gracias al poder de [Amazon Bedrock](https://aws.amazon.com/es/bedrock/). 
 
 ## [Avanzado: Crea un recomendador de Anime](https://aws.amazon.com/es/blogs/aws-spanish/como-crear-un-modelo-de-recomendacion-basado-en-machine-learning/)
 Esta es una serie blog donde te guio a crear una aplicación de recomendaciones de Anime, empleando un servicio permite a los desarrolladores crear y desplegar rápidamente recomendaciones curadas y segmentación de usuarios inteligente a escala mediante machine learning (ML).. sin ser especialista en ML. 
