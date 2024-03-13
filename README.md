@@ -1,4 +1,8 @@
-# Servicios de AI-MLy GenAI de AWS: Demos para aprender a usar algunos de los [servicios de AIML de AWS](https://aws.amazon.com/es/machine-learning/) en un Jupyter Notebook.
+# Servicios de AI-ML y generative AI en AWS: Demos para aprender en un Jupyter Notebook.
+
+----
+
+![Diagram translator chatbot app"](images/portada.png)
 
 
 🇻🇪🇨🇱 [Dev.to](https://dev.to/elizabethfuentes12) [Linkedin](https://www.linkedin.com/in/lizfue/) [GitHub](https://github.com/elizabethfuentes12/) [Twitter](https://twitter.com/elizabethfue12) [Instagram](https://www.instagram.com/elifue.tech) [Youtube](https://www.youtube.com/channel/UCr0Gnc-t30m4xyrvsQpNp2Q)
@@ -8,9 +12,7 @@
 
 > 👷🏻‍♀️ **Configuración de la cuenta AWS:** Todas las demos se ejecutan en un jypiter notebook, por lo que debes tener configurado la cuenta de AWS en tu computador o ambiente, sigue los pasos aca --> [Link](https://docs.aws.amazon.com/es_es/cli/latest/userguide/cli-configure-files.html#:~:text=export%20AWS_PROFILE%3Duser1-,Definir%20y%20ver%20las%20opciones%20de%20configuraci%C3%B3n%20mediante%20comandos,-Hay%20varias%20formas)
 
-----
 
-![Diagram translator chatbot app"](images/portada.png)
 
 ----
 ## [Generative AI al alcance de una llamada de API 🚀](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main/notebooks/amazon-bedrock-demo)
