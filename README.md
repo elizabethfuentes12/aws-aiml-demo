@@ -17,7 +17,10 @@
 En estos notebook podrás utilizar la magia del Genai desde un par de lineas de comando gracias al poder de [Amazon Bedrock](https://aws.amazon.com/es/bedrock/). 
 
 ## [Generative AI: Introducción a prompt engineering 🚀](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main/notebooks/prompt-engineering-best-practices)
-En estos notebook podrás utilizar la magia del Genai desde un par de lineas de comando gracias al poder de [Amazon Bedrock](https://aws.amazon.com/es/bedrock/). 
+
+Con un prompt bien diseñado, las capacidades previamente entrenadas del modelo pueden aprovecharse para atender consultas novedosas dentro de su ámbito de aplicación. 
+
+Aprende como [aca](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main/notebooks/prompt-engineering-best-practices)
 
 ## Notebooks prácticos para aprender a usar algunos de los [servicios de AIML de AWS](https://aws.amazon.com/machine-learning/)
 
