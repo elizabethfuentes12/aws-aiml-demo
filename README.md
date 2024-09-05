@@ -12,8 +12,13 @@
 
 > 👷🏻‍♀️ **Configuración de la cuenta AWS:** Todas las demos se ejecutan en un jypiter notebook, por lo que debes tener configurado la cuenta de AWS en tu computador o ambiente, sigue los pasos aca --> [Link](https://docs.aws.amazon.com/es_es/cli/latest/userguide/cli-configure-files.html#:~:text=export%20AWS_PROFILE%3Duser1-,Definir%20y%20ver%20las%20opciones%20de%20configuraci%C3%B3n%20mediante%20comandos,-Hay%20varias%20formas)
 
+## Empieza creando el ambiente
 
-
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
 ----
 ## [Generative AI al alcance de una llamada de API 🚀](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main/notebooks/amazon-bedrock-demo)
 En estos notebook podrás utilizar la magia del Genai desde un par de lineas de comando gracias al poder de [Amazon Bedrock](https://aws.amazon.com/es/bedrock/). 
