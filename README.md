@@ -29,6 +29,14 @@ Con un prompt bien diseñado, las capacidades previamente entrenadas del modelo 
 
 Aprende como [aca](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main/notebooks/prompt-engineering-best-practices)
 
+## [Código de WorkShop 🧱 Construyendo con Amazon Bedrock y LangChain](https://catalog.workshops.aws/building-with-bedrock-and-langchain/es-US)
+
+Ve a la carpeta [workshop](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main/workshop)
+
+Sigue los pasos aca: [🧱 Construyendo con Amazon Bedrock y LangChain](https://catalog.workshops.aws/building-with-bedrock-and-langchain/es-US)
+
+[Encuentra más workshops para aprender](https://workshops.aws/card/amazon%20bedrock)
+
 ## Notebooks prácticos para aprender a usar algunos de los [servicios de AIML de AWS](https://aws.amazon.com/machine-learning/)
 
 ### [Detectar entidades y sentimientos en un documento 🔎 📄](https://github.com/elizabethfuentes12/aws-aiml-demo/blob/main/notebooks/detecting-entities-and-sentiment-from-a-document.ipynb):
