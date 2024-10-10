@@ -31,7 +31,12 @@ Aprende como [aca](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main
 
 ## [Código de WorkShop 🧱 Construyendo con Amazon Bedrock y LangChain](https://catalog.workshops.aws/building-with-bedrock-and-langchain/es-US)
 
-Ve a la carpeta [workshop](https://github.com/elizabethfuentes12/aws-aiml-demo/tree/main/workshop)
+Descarga el código aca: 
+
+```
+curl 'https://static.us-east-1.prod.workshops.aws/public/78167ddb-3840-45eb-b24d-20b3a410f64a/assets/workshop.zip' --output workshop.zip
+unzip workshop.zip
+```
 
 Sigue los pasos aca: [🧱 Construyendo con Amazon Bedrock y LangChain](https://catalog.workshops.aws/building-with-bedrock-and-langchain/es-US)
 
